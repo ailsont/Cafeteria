@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    tools:context=".HomeFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="69dp"
+        android:gravity="center_horizontal"
+        android:text="O QUE SÃO?"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="215dp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:text="Pancs é acrônimo para plantas alimentícias não convencionais. São plantas de desenvolvimento espontâneo, facilmente encontradas em jardins, hortas, quintais e até mesmo em calçadas de rua. Infelizmente, muitas das espécies de Pancs são tidas pela população em geral e até pelos próprios agricultores como infestantes e daninhas ou “mato” – e por isso são pouco utilizadas na alimentação por falta de conhecimento ou costume. Estudos revelam que as Pancs possuem teores de minerais, fibras, antioxidantes e proteínas significativamente maiores quando comparadas às plantas domesticadas"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="215dp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:text="Pancs é acrônimo para plantas alimentícias não convencionais. São plantas de desenvolvimento espontâneo, facilmente encontradas em jardins, hortas, quintais e até mesmo em calçadas de rua. Infelizmente, muitas das espécies de Pancs são tidas pela população em geral e até pelos próprios agricultores como infestantes e daninhas ou “mato” – e por isso são pouco utilizadas na alimentação por falta de conhecimento ou costume. Estudos revelam que as Pancs possuem teores de minerais, fibras, antioxidantes e proteínas significativamente maiores quando comparadas às plantas domesticadas"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+</FrameLayout>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item
+                android:id="@+id/menucafe"
+                android:icon="@drawable/Cafe"
+                android:title="Café"
+                android:checked="true"/>
+        <item
+            android:id="@+id/menumuffin"
+            android:icon="@drawable/muffin"
+            android:title="Muffin"
+            android:checked="true"/>
+
+        <item
+            android:id="@+id/menucha"
+            android:icon="@drawable/cha"
+            android:title="Chá"
+            android:checked="true"/>
+
+        <item
+            android:id="@+id/menudonout"
+            android:icon="@drawable/donout"
+            android:title="Donuts"
+            android:checked="true"/>
+
+
+    </group>
+
+</menu>
