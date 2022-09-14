@@ -12,7 +12,7 @@
     <com.google.android.material.card.MaterialCardView
         android:layout_width="350dp"
         android:layout_height="600dp"
-        android:backgroundTint="#EABBD7"
+        android:backgroundTint="#D4DD7C"
         app:cardCornerRadius="20dp">
 
         <LinearLayout
@@ -26,14 +26,14 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="10dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/cha_foto" />
+                android:src="@drawable/cha_imagem" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="0sp"
-                android:text="Donuts"
+                android:text="Chá"
                 android:textColor="#000"
                 android:textSize="40sp"
                 android:textStyle="bold" />
@@ -43,7 +43,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="0sp"
-                android:text="(Rosquinha)"
+                android:text="(Chazinho)"
                 android:textColor="#000"
                 android:textSize="15sp"
                 android:textStyle="italic" />
@@ -55,7 +55,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:layout_margin="20sp"
-                android:text="Consiste numa massa açucarada frita, que pode ser coberta com diversos tipos de cobertura doce e colorida,"
+                android:text="O chá é uma bebida preparada através da infusão de folhas, flores, raízes de planta do chá, geralmente preparada com água quente."
                 android:textColor="#000" />
 
             <LinearLayout
