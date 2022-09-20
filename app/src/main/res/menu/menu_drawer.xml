@@ -15,7 +15,7 @@
 
         <item
             android:id="@+id/menucha"
-            android:icon="@drawable/cha"
+            android:icon="@drawable/tea"
             android:title="Chá"
             android:checked="true"/>
 
